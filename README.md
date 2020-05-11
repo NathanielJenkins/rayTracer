@@ -9,6 +9,6 @@ The following program files create a ray tracer.
 To run the program, download the files and generate the build folder with CMake and the CMake file. To run program yourself you need CMake, python, C++.
 
 ## Development
-This ray tracer was built from the ground up. It features specular reflection, diffuse reflection, mesh mapping, texture mapping, shadows, point/directional lighting, parralization and anti-aliasing/multi-sampling techniques. An example image is shown on the right. Below is an example image with one point light. 
+This ray tracer was built from the ground up. It features specular reflection, diffuse reflection, mesh mapping, texture mapping, shadows, point/directional lighting, parallelization and anti-aliasing/multi-sampling techniques. An example image is shown on the right. Below is an example image with one point light. 
 
 ![Example Image](raytrace.bmp)
